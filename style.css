@@ -1,2 +1,5 @@
-body {background-color: #F9ECF2;}
-.aspect-square { background-color: #F3D2E4;}
+body {background-color: #F4DDD8;
+    color: #805A44; }
+.aspect-square { background-color: #F3D2CF;}
+li {list-style-type: none;}
+.text {background-color: #F3D2CF;}
